@@ -9,3 +9,5 @@ The .env file contains the connection string for the MongoDB database. The conne
 The project follows the MVC (Model-View-Controller) design pattern, with separate files for models, views, and controllers. This makes the code more modular and easier to maintain.
 
 Overall, the blog-with-database project is a full-featured blogging platform with CRUD operations for blog posts, and a MongoDB database for persistent data storage.
+
+I have borrowed the front-end side of the project from one of the App Brewery's project challenges, though I have made the back-end and the database connection from scratch.
